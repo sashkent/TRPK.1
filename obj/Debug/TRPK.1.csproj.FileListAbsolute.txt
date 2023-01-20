@@ -1,0 +1,12 @@
+D:\SASHKENT\Проекты\repos\TRPK.1\bin\Debug\TRPK.1.exe.config
+D:\SASHKENT\Проекты\repos\TRPK.1\bin\Debug\TRPK.1.exe
+D:\SASHKENT\Проекты\repos\TRPK.1\bin\Debug\TRPK.1.pdb
+D:\SASHKENT\Проекты\repos\TRPK.1\obj\Debug\TRPK.1.csproj.AssemblyReference.cache
+D:\SASHKENT\Проекты\repos\TRPK.1\obj\Debug\TRPK.1.csproj.SuggestedBindingRedirects.cache
+D:\SASHKENT\Проекты\repos\TRPK.1\obj\Debug\TRPK._1.InvisibleEdit.resources
+D:\SASHKENT\Проекты\repos\TRPK.1\obj\Debug\TRPK._1.Properties.Resources.resources
+D:\SASHKENT\Проекты\repos\TRPK.1\obj\Debug\TRPK.1.csproj.GenerateResource.cache
+D:\SASHKENT\Проекты\repos\TRPK.1\obj\Debug\TRPK.1.csproj.CoreCompileInputs.cache
+D:\SASHKENT\Проекты\repos\TRPK.1\obj\Debug\TRPK.1.exe
+D:\SASHKENT\Проекты\repos\TRPK.1\obj\Debug\TRPK.1.pdb
+D:\SASHKENT\Проекты\repos\TRPK.1\obj\Debug\TRPK._1.Form1.resources
